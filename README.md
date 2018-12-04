@@ -1,10 +1,10 @@
 # MusicATE  
-### **Match while listening to music out of the blue** :musical_note: :sparkling_heart:
+### **Match your Mr./ Ms. Right while listening to music out of the blue** :musical_note: :sparkling_heart:
 
 </br>
 <div align=center>
-	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/sceenshot.gif" alt="gif image" width="30%" height="30%">
-	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/screenshot_static.png" alt="gif image" width="30%" height="30%">
+	<img src="https://github.com/Chun-Chieh/MusicATE/blob/master/Android_App/screenshot.gif" alt="screenshot" width="30%" height="30%">
+	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/screenshot_static.png" alt="screenshot" width="30%" height="30%">
 </div>
 </br>
 
@@ -19,8 +19,8 @@ $ firebase serve
 
 
 ## Collaborators
-* [Henry Li](https://github.com/henry226)
 * [Hank Liang](https://github.com/Chun-Chieh)
+* [Henry Li](https://github.com/henry226)
 * [Alden Liang](https://github.com/LiangA)
 * [Cici Chen](https://github.com/BUicicchen)
 * [Miffy Chen](https://github.com/miffycs)
