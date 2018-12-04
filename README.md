@@ -1,4 +1,4 @@
-# MusicATE  
+# MusicATE - MLH Local Hack Day (2018)
 ### **Match your Mr./ Ms. Right while listening to music out of the blue** :musical_note: :sparkling_heart:
 
 </br>
@@ -27,8 +27,7 @@ $ firebase serve
 
 
 ## Inspiration/Motivation:  
-We listen music all the time, such as taking train, working out  and even while we are walking on the street. We believe that music can 
-bring not only happiness but also get people’s relationship closer.  
+We listen music all the time, such as taking train, working out  and even while we are walking on the street. We believe that music can bring not only happiness but also get people’s relationship closer.  
 
 
 ## What our project is about?
