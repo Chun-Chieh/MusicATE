@@ -19,7 +19,7 @@ $ firebase serve
 
 
 ## Collaborators
-* [Hank Liang](https://github.com/Chun-Chieh)
+* [Hank Liang](https://github.com/Doge-is-Dope)
 * [Henry Li](https://github.com/henry226)
 * [Alden Liang](https://github.com/LiangA)
 * [Cici Chen](https://github.com/BUicicchen)
